@@ -1,0 +1,408 @@
+[
+    {
+        "productId": "1",
+        "prodctType": 2,
+        "productDescription": "",
+        "price": 100,
+        "productName": "Classic Abacus",
+        "promoCode": {
+            "isPromoCodeAvailable": true,
+            "promoCode": "WELCOME10",
+            "validTill": "2022-08-08T23:54:18.932Z"
+        },
+        "discount": {
+            "discountType": 2,
+            "discountFlatePrice": 10
+        },
+        "maxDiscount": 20,
+        "addOns": [
+            {
+                "addOnId": "ad123",
+                "addOnName": "Gift Wrap Standard",
+                "addOnServiceGroupId": "wrap",
+                "isApplicable": true,
+                "isMultiSelect": false,
+                "addOnPrice": 5
+            },
+            {
+                "addOnId": "ad124",
+                "addOnName": "Gift Wrap premium",
+                "addOnServiceGroupId": "wrap",
+                "isApplicable": true,
+                "isMultiSelect": false,
+                "addOnPrice": 20
+            }
+        ],
+        "imageDetail": {
+            "alternateText": "image not available",
+            "largeImg": "",
+            "thumbNailImg": ""
+        },
+        "minOrderSize": 1,
+        "maxOrderSize": 10
+    },
+    {
+        "productId": "2",
+        "prodctType": 1,
+        "productDescription": "",
+        "price": 2500,
+        "productName": "Baby Sitting Service",
+        "promoCode": {
+            "isPromoCodeAvailable": true,
+            "promoCode": "WELCOME10",
+            "validTill": "2022-08-08T23:54:18.932Z"
+        },
+        "discount": {
+            "discountType": 2,
+            "discountFlatePrice": 10
+        },
+        "maxDiscount": 20,
+        "imageDetail": {
+            "alternateText": "image not available",
+            "largeImg": "",
+            "thumbNailImg": ""
+        },
+        "minOrderSize": 1,
+        "maxOrderSize": 1
+    },
+    {
+        "productId": "4",
+        "prodctType": 2,
+        "productDescription": "",
+        "price": 750,
+        "productName": "Wooden Car",
+        "promoCode": {
+            "isPromoCodeAvailable": true,
+            "promoCode": "WELCOME10",
+            "validTill": "2022-08-08T23:54:18.932Z"
+        },
+        "discount": {
+            "discountType": 2,
+            "discountFlatePrice": 10
+        },
+        "maxDiscount": 20,
+        "addOns": [
+            {
+                "addOnId": "ad123",
+                "addOnName": "Gift Wrap Standard",
+                "addOnServiceGroupId": "wrap",
+                "isApplicable": true,
+                "isMultiSelect": false,
+                "addOnPrice": 5
+            }
+        ],
+        "imageDetail": {
+            "alternateText": "image not available",
+            "largeImg": "",
+            "thumbNailImg": ""
+        },
+        "minOrderSize": 1,
+        "maxOrderSize": 10
+    },
+    {
+        "productId": "5",
+        "prodctType": 2,
+        "productDescription": "",
+        "price": 600,
+        "productName": "Stacking Rings",
+        "promoCode": {
+            "isPromoCodeAvailable": true,
+            "promoCode": "WELCOME10",
+            "validTill": "2022-08-08T23:54:18.932Z"
+        },
+        "discount": {
+            "discountType": 2,
+            "discountFlatePrice": 10
+        },
+        "maxDiscount": 20,
+        "addOns": [
+            {
+                "addOnId": "ad123",
+                "addOnName": "Gift Wrap Standard",
+                "addOnServiceGroupId": "wrap",
+                "isApplicable": true,
+                "isMultiSelect": false,
+                "addOnPrice": 5
+            }
+        ],
+        "imageDetail": {
+            "alternateText": "image not available",
+            "largeImg": "",
+            "thumbNailImg": ""
+        },
+        "minOrderSize": 1,
+        "maxOrderSize": 10
+    },
+    {
+        "productId": "6",
+        "prodctType": 2,
+        "productDescription": "",
+        "price": 800,
+        "productName": "Bowling Set",
+        "promoCode": {
+            "isPromoCodeAvailable": true,
+            "promoCode": "WELCOME10",
+            "validTill": "2022-08-08T23:54:18.932Z"
+        },
+        "discount": {
+            "discountType": 2,
+            "discountFlatePrice": 10
+        },
+        "maxDiscount": 20,
+        "addOns": [
+            {
+                "addOnId": "ad123",
+                "addOnName": "Gift Wrap Standard",
+                "addOnServiceGroupId": "wrap",
+                "isApplicable": true,
+                "isMultiSelect": false,
+                "addOnPrice": 5
+            }
+        ],
+        "imageDetail": {
+            "alternateText": "image not available",
+            "largeImg": "",
+            "thumbNailImg": ""
+        },
+        "minOrderSize": 1,
+        "maxOrderSize": 10
+    },
+    {
+        "productId": "7",
+        "prodctType": 2,
+        "productDescription": "",
+        "price": 120,
+        "productName": "Shape Sorter",
+        "promoCode": {
+            "isPromoCodeAvailable": true,
+            "promoCode": "WELCOME10",
+            "validTill": "2022-08-08T23:54:18.932Z"
+        },
+        "discount": {
+            "discountType": 2,
+            "discountFlatePrice": 10
+        },
+        "maxDiscount": 20,
+        "addOns": [
+            {
+                "addOnId": "ad123",
+                "addOnName": "Gift Wrap Standard",
+                "addOnServiceGroupId": "wrap",
+                "isApplicable": true,
+                "isMultiSelect": false,
+                "addOnPrice": 5
+            }
+        ],
+        "imageDetail": {
+            "alternateText": "image not available",
+            "largeImg": "",
+            "thumbNailImg": ""
+        },
+        "minOrderSize": 1,
+        "maxOrderSize": 10
+    },
+    {
+        "productId": "8",
+        "prodctType": 2,
+        "productDescription": "",
+        "price": 300,
+        "productName": "Shape Sorter",
+        "promoCode": {
+            "isPromoCodeAvailable": true,
+            "promoCode": "WELCOME10",
+            "validTill": "2022-08-08T23:54:18.932Z"
+        },
+        "discount": {
+            "discountType": 2,
+            "discountFlatePrice": 10
+        },
+        "maxDiscount": 20,
+        "addOns": [
+            {
+                "addOnId": "ad123",
+                "addOnName": "Gift Wrap Standard",
+                "addOnServiceGroupId": "wrap",
+                "isApplicable": true,
+                "isMultiSelect": false,
+                "addOnPrice": 5
+            }
+        ],
+        "imageDetail": {
+            "alternateText": "image not available",
+            "largeImg": "",
+            "thumbNailImg": ""
+        },
+        "minOrderSize": 1,
+        "maxOrderSize": 10
+    },
+    {
+        "productId": "9",
+        "prodctType": 2,
+        "productDescription": "",
+        "price": 500,
+        "productName": "Building Bricks",
+        "promoCode": {
+            "isPromoCodeAvailable": true,
+            "promoCode": "WELCOME10",
+            "validTill": "2022-08-08T23:54:18.932Z"
+        },
+        "discount": {
+            "discountType": 2,
+            "discountFlatePrice": 10
+        },
+        "maxDiscount": 20,
+        "addOns": [
+            {
+                "addOnId": "ad123",
+                "addOnName": "Gift Wrap Standard",
+                "addOnServiceGroupId": "wrap",
+                "isApplicable": true,
+                "isMultiSelect": false,
+                "addOnPrice": 5
+            }
+        ],
+        "imageDetail": {
+            "alternateText": "image not available",
+            "largeImg": "",
+            "thumbNailImg": ""
+        },
+        "minOrderSize": 1,
+        "maxOrderSize": 10
+    },
+    {
+        "productId": "10",
+        "prodctType": 2,
+        "productDescription": "",
+        "price": 400,
+        "productName": "Xylophone",
+        "promoCode": {
+            "isPromoCodeAvailable": true,
+            "promoCode": "WELCOME10",
+            "validTill": "2022-08-08T23:54:18.932Z"
+        },
+        "discount": {
+            "discountType": 2,
+            "discountFlatePrice": 10
+        },
+        "maxDiscount": 20,
+        "addOns": [
+            {
+                "addOnId": "ad123",
+                "addOnName": "Gift Wrap Standard",
+                "addOnServiceGroupId": "wrap",
+                "isApplicable": true,
+                "isMultiSelect": false,
+                "addOnPrice": 5
+            }
+        ],
+        "imageDetail": {
+            "alternateText": "image not available",
+            "largeImg": "",
+            "thumbNailImg": ""
+        },
+        "minOrderSize": 1,
+        "maxOrderSize": 10
+    },
+    {
+        "productId": "11",
+        "prodctType": 2,
+        "productDescription": "",
+        "price": 100,
+        "productName": "Toy Train",
+        "promoCode": {
+            "isPromoCodeAvailable": true,
+            "promoCode": "WELCOME10",
+            "validTill": "2022-08-08T23:54:18.932Z"
+        },
+        "discount": {
+            "discountType": 2,
+            "discountFlatePrice": 10
+        },
+        "maxDiscount": 20,
+        "addOns": [
+            {
+                "addOnId": "ad123",
+                "addOnName": "Gift Wrap Standard",
+                "addOnServiceGroupId": "wrap",
+                "isApplicable": true,
+                "isMultiSelect": false,
+                "addOnPrice": 5
+            }
+        ],
+        "imageDetail": {
+            "alternateText": "image not available",
+            "largeImg": "",
+            "thumbNailImg": ""
+        },
+        "minOrderSize": 1,
+        "maxOrderSize": 10
+    },
+    {
+        "productId": "12",
+        "prodctType": 2,
+        "productDescription": "",
+        "price": 230,
+        "productName": "Kids Tool Box",
+        "promoCode": {
+            "isPromoCodeAvailable": true,
+            "promoCode": "WELCOME10",
+            "validTill": "2022-08-08T23:54:18.932Z"
+        },
+        "discount": {
+            "discountType": 2,
+            "discountFlatePrice": 10
+        },
+        "maxDiscount": 20,
+        "addOns": [
+            {
+                "addOnId": "ad123",
+                "addOnName": "Gift Wrap Standard",
+                "addOnServiceGroupId": "wrap",
+                "isApplicable": true,
+                "isMultiSelect": false,
+                "addOnPrice": 5
+            }
+        ],
+        "imageDetail": {
+            "alternateText": "image not available",
+            "largeImg": "",
+            "thumbNailImg": ""
+        },
+        "minOrderSize": 1,
+        "maxOrderSize": 10
+    },
+    {
+        "productId": "13",
+        "prodctType": 2,
+        "productDescription": "",
+        "price": 560,
+        "productName": "Spinning Toy",
+        "promoCode": {
+            "isPromoCodeAvailable": true,
+            "promoCode": "WELCOME10",
+            "validTill": "2022-08-08T23:54:18.932Z"
+        },
+        "discount": {
+            "discountType": 2,
+            "discountFlatePrice": 10
+        },
+        "maxDiscount": 20,
+        "addOns": [
+            {
+                "addOnId": "ad123",
+                "addOnName": "Gift Wrap Standard",
+                "addOnServiceGroupId": "wrap",
+                "isApplicable": true,
+                "isMultiSelect": false,
+                "addOnPrice": 5
+            }
+        ],
+        "imageDetail": {
+            "alternateText": "image not available",
+            "largeImg": "",
+            "thumbNailImg": ""
+        },
+        "minOrderSize": 1,
+        "maxOrderSize": 10
+    }
+]
